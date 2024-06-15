@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "18a748f58ba3f748",
+    "type": "split",
+    "children": [
+      {
+        "id": "492156169c7b9f51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb797aec54f5dad7",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          },
+          {
+            "id": "f49930962fee773f",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "654ed06660b9eb54",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8deb97b211fc4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb80ec7a38659ba4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b1fa435e739aab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e02346648b274125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "795e1a807a7780cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a34c2890b53f2f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d5e69e397da850",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "036b28eea34a1faf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8dd06a76d61f5b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c82ad117ef59ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "fb797aec54f5dad7",
+  "lastOpenFiles": [
+    "/fake-file-that-generated-for-thino.png",
+    "2024-06-15.md",
+    "未命名.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
