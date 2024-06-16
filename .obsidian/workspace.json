@@ -11,7 +11,7 @@
             "id": "60e90c37ccdd0675",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "pkmer-downloader",
               "state": {}
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,7 +143,9 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "60e90c37ccdd0675",
