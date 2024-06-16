@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac05d0b64d05fda6",
+        "id": "50c0f3efced9fd77",
         "type": "tabs",
         "children": [
           {
-            "id": "c8588858bad9e46e",
+            "id": "60e90c37ccdd0675",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8588858bad9e46e",
+  "active": "60e90c37ccdd0675",
   "lastOpenFiles": [
     "xinwenjian.md",
     "2024-06-15.md"
