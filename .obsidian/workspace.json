@@ -14,8 +14,17 @@
               "type": "pkmer-downloader",
               "state": {}
             }
+          },
+          {
+            "id": "15638134eaf129a0",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "xinwenjian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "xinwenjian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "xinwenjian.md"
+              }
             }
           },
           {
@@ -149,8 +162,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b26bc6862a7ff42",
+  "active": "15638134eaf129a0",
   "lastOpenFiles": [
+    "2024-06-17.md",
     "xinwenjian.md",
     "2024-06-15.md"
   ]
