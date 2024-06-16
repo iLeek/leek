@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50c0f3efced9fd77",
+        "id": "e56cfb204994952f",
         "type": "tabs",
         "children": [
           {
-            "id": "60e90c37ccdd0675",
+            "id": "1b26bc6862a7ff42",
             "type": "leaf",
             "state": {
               "type": "pkmer-downloader",
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,10 +144,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "pkmer:Open Pkmer Market": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "60e90c37ccdd0675",
+  "active": "1b26bc6862a7ff42",
   "lastOpenFiles": [
     "xinwenjian.md",
     "2024-06-15.md"
