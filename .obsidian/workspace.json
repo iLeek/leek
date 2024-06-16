@@ -1,25 +1,17 @@
 {
   "main": {
-    "id": "18a748f58ba3f748",
+    "id": "912114c912b87138",
     "type": "split",
     "children": [
       {
-        "id": "492156169c7b9f51",
+        "id": "d0f02b0ab01c5f12",
         "type": "tabs",
         "children": [
           {
-            "id": "fb797aec54f5dad7",
+            "id": "ff92ece9053abd32",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "f49930962fee773f",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "654ed06660b9eb54",
+    "id": "2cbb19492b021542",
     "type": "split",
     "children": [
       {
-        "id": "c8deb97b211fc4ea",
+        "id": "04eafb1608f37012",
         "type": "tabs",
         "children": [
           {
-            "id": "cb80ec7a38659ba4",
+            "id": "6254ba03181fe327",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +39,7 @@
             }
           },
           {
-            "id": "4b1fa435e739aab7",
+            "id": "1ebf12802d6d1fcb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +54,7 @@
             }
           },
           {
-            "id": "e02346648b274125",
+            "id": "52882f9729a47239",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "795e1a807a7780cc",
+    "id": "1b168e8c10109716",
     "type": "split",
     "children": [
       {
-        "id": "a34c2890b53f2f5a",
+        "id": "853d5bbdd1f130a4",
         "type": "tabs",
         "children": [
           {
-            "id": "56d5e69e397da850",
+            "id": "4ef00f585d82cf1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,7 +92,7 @@
             }
           },
           {
-            "id": "036b28eea34a1faf",
+            "id": "c10f3230b6f7a56b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,7 +103,7 @@
             }
           },
           {
-            "id": "b8dd06a76d61f5b7",
+            "id": "123e6e576e2730ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,19 +114,27 @@
             }
           },
           {
-            "id": "4c82ad117ef59ce1",
+            "id": "d1680a805263b29c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "87d56dd26eb8928f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,17 +143,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "pkmer:Open Pkmer Market": false,
-      "obsidian-memos:Thino": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "fb797aec54f5dad7",
+  "active": "ff92ece9053abd32",
   "lastOpenFiles": [
-    "/fake-file-that-generated-for-thino.png",
-    "2024-06-15.md",
-    "未命名.md",
-    "create a link.md",
-    "Welcome.md"
+    "xinwenjian.md",
+    "2024-06-15.md"
   ]
 }
