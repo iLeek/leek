@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d18bc9ac762dafad",
+        "id": "84ce94ddd22bac92",
         "type": "tabs",
         "children": [
           {
-            "id": "a71e160ecb9c4db5",
+            "id": "80d81fcb5f92452c",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
-              "state": {
-                "file": "Android new file.mdenc"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android new file.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android new file.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android new file.mdenc"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +153,10 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "a71e160ecb9c4db5",
+  "active": "80d81fcb5f92452c",
   "lastOpenFiles": [
-    "xinwenjian.md",
     "Android new file.mdenc",
+    "xinwenjian.md",
     "2024-06-17.md",
     "未命名看板.md",
     "工作/工作安排.md",
