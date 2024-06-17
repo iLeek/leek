@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e56cfb204994952f",
+        "id": "d18bc9ac762dafad",
         "type": "tabs",
         "children": [
           {
-            "id": "1b26bc6862a7ff42",
+            "id": "a71e160ecb9c4db5",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
+              "type": "meld-encrypted-file-content-view",
+              "state": {
+                "file": "Android new file.mdenc"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android new file.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android new file.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android new file.mdenc"
+              }
             }
           },
           {
@@ -147,15 +153,19 @@
       "pkmer:Open Pkmer Market": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-memos:Thino": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "1b26bc6862a7ff42",
+  "active": "a71e160ecb9c4db5",
   "lastOpenFiles": [
+    "xinwenjian.md",
+    "Android new file.mdenc",
     "2024-06-17.md",
     "未命名看板.md",
     "工作/工作安排.md",
-    "xinwenjian.md",
     "工作任务.md",
     "工作",
     "2024-06-15.md"
