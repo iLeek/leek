@@ -46,8 +46,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0eb7a9e1dfa63654",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "3d8ff7fc0db2d3a4",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-17.md"
+                "file": "未命名看板.md"
               }
             }
           },
@@ -183,13 +218,15 @@
       "pkmer:Open Pkmer Market": false,
       "obsidian-memos:Thino": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "1b26bc6862a7ff42",
+  "active": "3d8ff7fc0db2d3a4",
   "lastOpenFiles": [
-    "xinwenjian.md",
     "2024-06-17.md",
+    "未命名看板.md",
+    "xinwenjian.md",
     "2024-06-15.md",
     "工作/工作安排.md",
     "工作任务.md",

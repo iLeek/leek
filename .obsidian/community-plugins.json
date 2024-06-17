@@ -6,5 +6,7 @@
   "obsidian-memos",
   "templater-obsidian",
   "quickadd",
-  "dataview"
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-icon-folder"
 ]
