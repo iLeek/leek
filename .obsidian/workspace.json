@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "84ce94ddd22bac92",
+        "id": "bdceebacde359d15",
         "type": "tabs",
         "children": [
           {
-            "id": "80d81fcb5f92452c",
+            "id": "9c3ac4c03d3e8ae3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2691056d82f60642",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名看板.md"
+              }
             }
           },
           {
@@ -153,15 +170,16 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "80d81fcb5f92452c",
+  "active": "2691056d82f60642",
   "lastOpenFiles": [
+    "2024-06-15.md",
+    "2024-06-17.md",
+    "工作/工作安排.md",
+    "未命名看板.md",
+    "Untitled 20240617 112836.mdenc",
     "Android new file.mdenc",
     "xinwenjian.md",
-    "2024-06-17.md",
-    "未命名看板.md",
-    "工作/工作安排.md",
     "工作任务.md",
-    "工作",
-    "2024-06-15.md"
+    "工作"
   ]
 }
