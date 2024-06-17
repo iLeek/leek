@@ -63,26 +63,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "3d8ff7fc0db2d3a4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "未命名看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,14 +205,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "3d8ff7fc0db2d3a4",
+  "active": "0eb7a9e1dfa63654",
   "lastOpenFiles": [
+    "工作/工作安排.md",
+    "工作任务.md",
+    "2024-06-15.md",
     "2024-06-17.md",
     "未命名看板.md",
     "xinwenjian.md",
-    "2024-06-15.md",
-    "工作/工作安排.md",
-    "工作任务.md",
     "工作"
   ]
 }
